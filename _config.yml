@@ -1,1 +1,5 @@
-
+titlt: Muhammad Hussain Qureshi
+#logo: /assets/img/headshot_circle.png
+#description: Text below image
+show_download: false
+theme: jekyll-theme-minimal
